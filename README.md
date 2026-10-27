@@ -14,7 +14,9 @@ py -m pip install -r requirements.txt
 
 ## Configure `.env`
 
-Edit the local `.env` file. Set `API_KEY` to your real key. Set `SEC_USER_AGENT` to your name and Purdue email address. Keep `.env` private. Do not put a real key in `.env.example`.
+Create a copy of .env.example to .env and edit the local `.env` file. Set `API_KEY` to your real key. 
+Set `SEC_USER_AGENT` to your name and Purdue email address. 
+Keep `.env` private. Do not put a real key in `.env.example`.
 
 ## Run the check
 
