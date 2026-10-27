@@ -23,3 +23,8 @@ py check_env.py
 ```
 
 When configured, the script prints only the first four API-key characters followed by `...`, and the SEC user agent. It never prints the full key.
+
+## AI Policy
+This is a learning exercise, not financial advice.
+AI assistance: ChatGPT and Codex. I verified the sources myself; the judgments are mine.
+Any remaining errors are my own.
